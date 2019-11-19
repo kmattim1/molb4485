@@ -1,0 +1,10 @@
+Starting raxmlHPC run at Tue Nov 12 16:05:04 MST 2019
+Warning, you specified a working directory via "-w"
+Keep in mind that RAxML only accepts absolute path names, not relative ones!
+
+RAxML can't, parse the alignment file as phylip file 
+it will now try to parse it as FASTA file
+
+RAxML output files with the run ID <KnownBearTree> already exist 
+in directory /project/inbre-train/inbre007/molb4485/Mattimoe_Phylo/BearTrees/ ...... exiting
+RAxML has finished at Tue Nov 12 16:05:05 MST 2019
